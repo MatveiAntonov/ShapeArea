@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeArea", "ShapeArea\ShapeArea.csproj", "{702B8081-ABD5-4C40-B2A7-137162BC03F1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConsoleApplication", "Test\TestConsoleApplication.csproj", "{02E1F6B2-1482-447D-8C7D-1C96D7AF470E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConsoleApplication", "TestConsoleApplication\TestConsoleApplication.csproj", "{02E1F6B2-1482-447D-8C7D-1C96D7AF470E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeArea.Tests", "ShapeArea.Tests\ShapeArea.Tests.csproj", "{3715F403-237A-461F-BF6E-C03D710DD69B}"
 EndProject
